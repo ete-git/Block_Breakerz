@@ -4,17 +4,26 @@
 
 ## 遊び方
 
-### Python版（開発・実行）
+### 🚀 EXE版（すぐに遊べる）【推奨】
+
+**[リリースページから最新版をダウンロード](https://github.com/ete-git/Block_Breakerz/releases)**
+
+1. 最新のリリースから `block_breakerz.exe` をダウンロード
+2. ダブルクリックで起動
+
+### 🐍 Python版（開発・実行）
+
 ```bash
-# 1. 依存パッケージのインストール
+# 1. このリポジトリをクローン
+git clone https://github.com/ete-git/Block_Breakerz.git
+cd Block_Breakerz
+
+# 2. 依存パッケージをインストール
 pip install -r requirements.txt
 
-# 2. Main.pyを実行
+# 3. Main.pyを実行
 python Main.py
 ```
-
-### EXE版（すぐに遊べる）
-`block_breakerz.exe` をダブルクリックで起動します。
 
 ## 操作方法
 
